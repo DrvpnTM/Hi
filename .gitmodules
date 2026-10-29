@@ -1,3 +1,3 @@
 [submodule "services/panel/src"]
 	path = services/panel/src
-	url = https://github.com/DrvpnTM/Hiddify-Panel.git
+	url = https://github.com/DrvpnTM/panel.git
